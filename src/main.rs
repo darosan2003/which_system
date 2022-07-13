@@ -16,5 +16,4 @@ fn main() {
     let ttl = aux::get_ttl(&output);
 
     aux::check_os(&ttl, &argv[1]);
-
 }
