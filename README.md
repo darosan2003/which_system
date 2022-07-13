@@ -1,4 +1,4 @@
-# whichSystem
+# which_system
 
 ![](https://img.shields.io/badge/made%20with-Rust-orange)
 
