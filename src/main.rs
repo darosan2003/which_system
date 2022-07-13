@@ -7,8 +7,8 @@ fn main() {
     let argv: Vec<String> = env::args().collect();
 
     if argv.len() != 2 {
-        println!("Error. Incorrect number of argumenta supplied");
-        println!("Usage: {} <ip addr>", argv[0]);
+        println!("[-] Error. Incorrect number of arguments supplied");
+        println!("[+] Usage: {} <ip addr>", argv[0]);
         exit(1);
     }
 

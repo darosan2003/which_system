@@ -19,7 +19,7 @@ otherwise it will output an error message.
  What follows is an explanation of how to use this program
 
 #### Compilation
-The binary is already compiled and can be found in `target/debug/which_system`
+The binary is already compiled and can be found in the current directory
 
 ---
 
